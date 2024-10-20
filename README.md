@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nourine Mohammed Nadir</h1>
-<h3 align="center">Ai student, Hard worker.</h3>
+<h3 align="center">Ai student, Future data scientist.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nourine-nadir&label=Profile%20views&color=0e75b6&style=flat" alt="nourine-nadir" /> </p>
 
