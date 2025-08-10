@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nourine Mohammed Nadir</h1>
-<h3 align="center">Ai student, Future data scientist.</h3>
+<h3 align="center">Ai Engineer, data scientist.</h3>
 
 
-- 🔭 I’m currently working on [Reinforcement Learning algorithms](https://github.com/Nourine-Nadir/Reinforcement-Learning)
-
-- 🌱 I’m currently learning **PyBullet and other frameworks**
-
-- 👯 I’m a core team member of [GDG USTO-MB](https://linktr.ee/gdsc_usto_mb) AI departement.
 
 - 👨‍💻 All of my projects are available at [GITHUB repos](https://github.com/Nourine-Nadir?tab=repositories&q=&type=&language=&sort=stargazers)
 
